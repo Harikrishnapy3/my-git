@@ -6,14 +6,14 @@ def add(a,b):
   print(x+y)
  add(10,20)
 #sub
-def add(a,b):
+def sub(a,b):
   x=a
   y=b
   print(x-y)
- add(10,20)
+ sub(10,20)
 #mul
-def add(a,b):
+def mul(a,b):
   x=a
   y=b
   print(x*y)
- add(10,20)
+ mul(10,20)

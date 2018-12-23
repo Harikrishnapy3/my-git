@@ -17,3 +17,5 @@ def mul(a,b):
   y=b
   print(x*y)
  mul(10,20)
+
+print("thnak you ur open source code")
